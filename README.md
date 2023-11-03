@@ -40,12 +40,10 @@ To use the Minecraft Bedrock Bot in Replit, follow these steps:
 ## Build error
 YOULL GET THIS ERROR DUNNO IF ITS ON REPLIT OR OTHER HOST JUST YOULL SEE THIS SHEETY ERROR
 
-   ```bash
    npm ERR!   ]
    npm ERR! }
    npm ERR! [raknet] need to build
-       npm ERR! Build checks are passing! Building..
-
+       npm ERR! Build checks are passing! Building... 
 
 
 ## Solution
