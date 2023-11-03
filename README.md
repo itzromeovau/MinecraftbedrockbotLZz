@@ -5,38 +5,6 @@ This is a Minecraft Bedrock Bot built using Node.js and the bedrock-protocol lib
 ## First Of All
 This WOnt Freaking Work On Replit Due to somee freakiNggggg security PUrpOseeeeee
 
-## Installation
-
-To use the Minecraft Bedrock Bot in Replit, follow these steps:
-
-1. Clone the repository to your Replit workspace.
-2. Make sure you have Node.js and npm installed in your Replit environment.
-3. Run the following commands in the Replit terminal to install the required dependencies:
-
-   ```bash
-   npm install
-
-## Build error
-YOULL GET THIS ERROR DUNNO IF ITS ON REPLIT OR OTHER HOST JUST YOULL SEE THIS SHEETY ERROR
-
-   # Minecraft Bedrock Bot
-
-This is a Minecraft Bedrock Bot built using Node.js and the bedrock-protocol library. The bot is designed to connect to a Minecraft server and perform automated tasks.
-
-## First Of All
-This WOnt Freaking Work On Replit Due to somee freakiNggggg security PUrpOseeeeee
-
-## Installation
-
-To use the Minecraft Bedrock Bot in Replit, follow these steps:
-
-1. Clone the repository to your Replit workspace.
-2. Make sure you have Node.js and npm installed in your Replit environment.
-3. Run the following commands in the Replit terminal to install the required dependencies:
-
-   ```bash
-   npm install
-
 ## Build error
 YOULL GET THIS ERROR DUNNO IF ITS ON REPLIT OR OTHER HOST JUST YOULL SEE THIS SHEETY ERROR
 
@@ -44,6 +12,9 @@ YOULL GET THIS ERROR DUNNO IF ITS ON REPLIT OR OTHER HOST JUST YOULL SEE THIS SH
    npm ERR! }
    npm ERR! [raknet] need to build
        npm ERR! Build checks are passing! Building... 
+
+##BTWWWW
+if you add the ngrok feature or make this code work via ngrok or any please let me know bro
 
 
 ## Solution
@@ -68,7 +39,7 @@ To resolve this error, you can do the following:
 For more information about the CMake build error and possible solutions, check the official CMake documentation and the package's GitHub repository.
 
 
-## Installation
+## Installation of error
 
 To install CMake in your Replit environment or any hosting , follow the steps below:
 
