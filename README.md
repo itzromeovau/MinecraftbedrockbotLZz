@@ -5,6 +5,8 @@ This is a Minecraft Bedrock Bot built using Node.js and the bedrock-protocol lib
 ## First Of All
 This WOnt Freaking Work On Replit Due to somee freakiNggggg security PUrpOseeeeee
 
+## Update
+ Fix some bugs... kinda:>
 ## Build error
 YOULL GET THIS ERROR DUNNO IF ITS ON REPLIT OR OTHER HOST JUST YOULL SEE THIS SHEETY ERROR
 
