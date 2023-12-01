@@ -1,12 +1,12 @@
 {
-  "name": "afk-bot",
+  "name": "Minecraft-afk-bot",
   "version": "1.3.2",
   "description": "Afk bot for minecraft servers.",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "urFate",
+  "author": "Yoshialt123",
   "license": "MIT",
   "dependencies": {
     "bedrock-protocol": "^3.32.0",
