@@ -2,10 +2,10 @@ const bedrock = require('bedrock-protocol');
 const { Vec3 } = require('vec3');
 
 const client = bedrock.createClient({
-  host: 'BrichWoodSMP.aternos.me',
-  port: 37239,
+  host: 'platine.mcbe.fr',
+  port: 19152,
   username: 'Notch',
-  offline: true
+  offline: false
 });
 
 client.on('connect', () => {
@@ -55,3 +55,4 @@ function buildHouse(startPosition) {
     }
   }
 }
+
