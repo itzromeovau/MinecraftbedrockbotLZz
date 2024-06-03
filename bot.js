@@ -2,8 +2,8 @@ const bedrock = require('bedrock-protocol');
 const { Vec3 } = require('vec3');
 
 const client = bedrock.createClient({
-  host: 'platine.mcbe.fr',
-  port: 19152,
+  host: 'MrRomeo420.aternos.me',
+  port: 34082,
   username: 'Notch',
   offline: false
 });
